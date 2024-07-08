@@ -4,7 +4,7 @@
   
 ### <div align="center">Hey there, I'm Henil Shah, a full-time software developer 👨‍💻 <br/><br/>⚡Fun fact: I use tabs over spaces!  
 
-#### <div align="center">Currently working on: https://github.com/henilshahdev/nextjs-readme-builder  
+#### <div align="center">Currently working on: [Chitra](https://chitraa.netlify.app)
 
 ## My Skill Set  
 
@@ -46,17 +46,4 @@
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-</div>  
-
-## Connect with me  
-<div align="left">
-<a href="[https://linkedin.com/in/henilshah106]" target="_blank">
-<img style="margin: 40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="linkedin" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="[https://github.com/henilshahdev]" target="_blank">
-<img style="margin: 40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="github" height="40" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="[https://twitter.com/henil106]" target="_blank">
-<img style="margin: 40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="twitter" height="40" />
-</a>
 </div>  
